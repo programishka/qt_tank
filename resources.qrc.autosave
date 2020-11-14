@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/sprites">
+        <file>resource/tank1.svg</file>
+        <file>resource/tank2.svg</file>
+    </qresource>
+</RCC>
